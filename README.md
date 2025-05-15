@@ -10,10 +10,10 @@ Estudiante de economía Universidad de Los Andes
 [**Cristian Oviedo**](https://www.linkedin.com/in/cristian-oviedo-78362524b/)
 Estudiante de economía Universidad de Los Andes
 
-[**Mariana Solano Pineda**](https://www.linkedin.com/in/mariana-solano-pineda/)
+[**Mariana Solano**](https://www.linkedin.com/in/mariana-solano-pineda/)
 Estudiante de economía y administración de empresas Universidad de Los Andes
 
-[**Helen Melissa Margfoy Contreras**](https://www.linkedin.com/in/helenmargfoy/)
+[**Helen Margfoy**](https://www.linkedin.com/in/helenmargfoy/)
 Estudiante de Economía y Gobierno y asuntos Públicos Universidad de Los Andes
 
 [**Andrés Ballén**](www.linkedin.com/in/andrés-ballén)
