@@ -4,7 +4,7 @@ Uttil es una plataforma inteligente de carsharing que conecta a usuarios y propi
 
 ## 👨‍💻 Equipo
 
-[**Juan Fernando Rojas**]()
+[**Juan Fernando Rojas**](https://www.linkedin.com/in/juan-fernando-rojas-a00955258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 Estudiante de economía Universidad de Los Andes
 
 [**Cristian Oviedo**](https://www.linkedin.com/in/cristian-oviedo-78362524b/)
@@ -16,7 +16,7 @@ Estudiante de economía y administración de empresas Universidad de Los Andes
 [**Helen Melissa Margfoy Contreras**](https://www.linkedin.com/in/helenmargfoy/)
 Estudiante de Economía y Gobierno y asuntos Públicos Universidad de Los Andes
 
-[**Ballén**]()
+[**Andrés Ballén**](www.linkedin.com/in/andrés-ballén)
 Estudiante de economía Universidad de Los Andes
 
 ## 🌍 Problema que abordamos
